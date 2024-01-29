@@ -1,3 +1,5 @@
+Hello! I'm Stefan Adamovic, a passionate Java developer with a focus on backend development. I specialize in integrating relational databases, ensuring effective data handling and enhancing project reliability through robust database management. My expertise extends to crafting efficient server-side applications using Spring Boot. Feel free to connect with me on LinkedIn for discussions on backend development, Java, and Spring Boot. Let's explore the world of backend technologies and share insights on building reliable and scalable applications! 🚀
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stefan1adamovic/) 
 
